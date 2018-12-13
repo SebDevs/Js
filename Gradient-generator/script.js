@@ -1,4 +1,3 @@
-var css = document.querySelector("h3");
 var firstcolor = document.getElementById("first");
 var secondcolor = document.getElementById("second");
 var body = document.getElementById("base");
